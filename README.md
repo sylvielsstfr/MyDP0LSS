@@ -1,4 +1,5 @@
 # README.md for MyDP0LSS
 
 
-Work for finding clusters, filanments
+- Work for finding clusters, filaments
+- FFT
